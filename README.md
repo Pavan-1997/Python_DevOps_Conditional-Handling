@@ -47,7 +47,7 @@ else:
     print("x is not greater than 5")
 ```
 
-## `else` Statement
+## `else` Statement - 
 
 The `else` statement is used to specify a block of code to execute when none of the previous conditions (in the `if` and `elif` statements) are `True`.
 
