@@ -19,7 +19,7 @@ if x > 5:
     print("x is greater than 5")
 ```
 
-## `elif` Statement
+## `elif` Statement - 
 
 The `elif` statement allows you to check additional conditions if the previous `if` or `elif` conditions are `False`. You can have multiple `elif` statements after the initial `if` statement.
 
