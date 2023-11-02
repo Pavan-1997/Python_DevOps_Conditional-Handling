@@ -8,7 +8,7 @@ The `if` statement is used to execute a block of code if a specified condition i
 
 ```python
 if condition:
-    # Code to execute if the condition is True
+    # Code to execute if the condition is True 
 ```
 
 - Example:
